@@ -1,0 +1,6 @@
+/**app.wxss**/
+/*引入全局阿里图标库*/
+@import "/static/iconfont/iconfont.wxss";
+page{
+    height: 100%;
+}

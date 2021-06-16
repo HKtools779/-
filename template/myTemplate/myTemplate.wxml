@@ -1,0 +1,5 @@
+<template name="myTemp">
+  <view>
+    <view class="title">我的模板</view>
+  </view>
+</template>
